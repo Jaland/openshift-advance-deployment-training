@@ -1,0 +1,1 @@
+# openshift-advance-deployment-training
